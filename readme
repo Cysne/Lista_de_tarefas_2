@@ -1,0 +1,15 @@
+## Pré-requisitos
+
+- Node.js instalado na máquina.
+
+## Instalação
+
+1. Clone este repositório:
+
+   ```bash
+   git clone git@github.com:Cysne/Lista_de_tarefas_2.git
+   ```
+
+2. cd Lista_de_tarefas_2
+
+3. npm install
